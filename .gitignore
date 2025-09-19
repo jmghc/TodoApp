@@ -1,0 +1,7 @@
+/fastapienv/
+# Cache de Python
+__pycache__/
+*.pyc
+*.pyo
+# Archivos del sistema
+.DS_Store
